@@ -1,5 +1,4 @@
-# leetcode
-leetcode题解
+# Leetcode题解
 
 | 编号 | 题目 | 题解 |
 | :-: | :-: | :-: |
